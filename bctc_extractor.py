@@ -261,7 +261,7 @@ def normalize_pdf_orientation(pdf_path: str, log_callback) -> str:
 # ============================== CẤU HÌNH ==============================
 
 
-OPENROUTER_API_KEY = "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"
+OPENROUTER_API_KEY = ""
 OPENROUTER_MODEL = "openai/gpt-5.4-mini"
 OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions"
 
